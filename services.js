@@ -1,9 +1,9 @@
 import Layout from '../components/Layout';
 
-export default function Home() {
+export default function Services() {
   return (
     <Layout>
-      <h1>Welcome to Rizk Group</h1>
+      <h1>Our Services</h1>
     </Layout>
   );
 }
